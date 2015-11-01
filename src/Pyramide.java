@@ -17,7 +17,16 @@ public class Pyramide extends ConsoleProgram {
 	 * 
 	 */
 	public void run () {
-
-	}
+        
+		for (int i = 0; i < 14; i++  ) {
+			
+			int x = i * Base;
+			int y = j * Base;
+			
+			
+			Grect Base = new Grect (x, y, Base )  
+		}
+			
+	}	
 
 }
